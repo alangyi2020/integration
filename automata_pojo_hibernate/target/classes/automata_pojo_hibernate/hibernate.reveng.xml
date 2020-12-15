@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.org/dtd/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-catalog="soapdemo" match-name="CSRO_Service"/>
+  <table-filter match-catalog="soapdemo" match-name="Request"/>
+  <table-filter match-catalog="soapdemo" match-name="Request_Items"/>
+  <table-filter match-catalog="soapdemo" match-name="Request_parameters"/>
+  <table-filter match-catalog="soapdemo" match-name="Response"/>
+  <table-filter match-catalog="soapdemo" match-name="Service_Provider"/>
+</hibernate-reverse-engineering>
